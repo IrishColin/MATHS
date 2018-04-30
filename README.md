@@ -1,2 +1,2 @@
 # MATHS
-our maths website
+our maths website=https://irishcolin.github.io/MATHS/
